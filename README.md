@@ -61,14 +61,10 @@ python bot.py
 
 ## Example: Bot in Action
 
-Below are some screenshots of the bot running in a Discord channel:
+Below is a screenshot of the bot running in a Discord channel:
 
 ![Meme Example](meme.png)
 
-![Bot Command Example](images/bot_command_example.png)
-![Meme Response Example](images/meme_response_example.png)
-
-*Add your own screenshots to the `images/` folder and update the paths above as needed.*
 
 ---
 
